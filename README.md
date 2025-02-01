@@ -1,6 +1,3 @@
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
 
 <h1 align="center">Hey 👋 I'm Zakaria Benhamiche</h1>
 
